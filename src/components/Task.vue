@@ -8,7 +8,7 @@
     type="date"
     v-model="task.deadline"
     />
-    <button>Agregar</button>
+    <button>Agregar, papu</button>
 </template>
 
 <script>
