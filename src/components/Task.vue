@@ -1,7 +1,7 @@
 <template>
   <input
     type="text"
-    placeholder="Ingrese el nombre de la tarea"
+    placeholder="Ingrese el nombre de la tareita"
     v-model.trim="task.description"
     />
   <input
